@@ -1,6 +1,7 @@
 # Statical-Hypothesis-Testings-with-Python
 
 I use different types of statical testing. I use the following:
+
 -Chi-square test:  The Chi-square test of independence tests if there is a significant relationship between two categorical variables
 
 Hypothesis:
